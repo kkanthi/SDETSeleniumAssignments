@@ -35,7 +35,7 @@ public class TestCase_1_OpenUrlInChromeBrowserTest {
 	  logger.info("Browser Maximized");
 	  //Navigating to the Application
 	  driver.get("https://opensource-demo.orangehrmlive.com/");
-	  logger.info("Navigating into Application.");
+	  logger.info("Navigating into the Application.");
 }
 
 }
