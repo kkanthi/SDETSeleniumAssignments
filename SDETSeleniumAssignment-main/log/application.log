@@ -1,0 +1,5 @@
+[INFO] 2021-07-08 16:43:20,910 seleniumassignment.TestCase_1_OpenUrlInChromeBrowserTest init - Browser Launched.
+[INFO] 2021-07-08 16:43:20,938 seleniumassignment.TestCase_1_OpenUrlInChromeBrowserTest init - implicit wait Condition provided.
+[INFO] 2021-07-08 16:43:20,953 seleniumassignment.TestCase_1_OpenUrlInChromeBrowserTest init - Browser Maximized
+[INFO] 2021-07-08 16:43:23,756 seleniumassignment.TestCase_1_OpenUrlInChromeBrowserTest init - Navigating into Application.
+[INFO] 2021-07-08 16:43:23,780 seleniumassignment.TestCase_1_OpenUrlInChromeBrowserTest init - Application title is OrangeHRM

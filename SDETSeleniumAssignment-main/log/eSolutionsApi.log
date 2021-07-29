@@ -1,0 +1,15 @@
+2021-07-06 20:23:54,730 - seleniumassignment.OpenUrlInChromeBrowserTest -INFO - Browser Launched.
+2021-07-06 20:23:54,756 - seleniumassignment.OpenUrlInChromeBrowserTest -INFO - implicit wait Condition provided.
+2021-07-06 20:23:54,772 - seleniumassignment.OpenUrlInChromeBrowserTest -INFO - Browser Maximized
+2021-07-06 20:23:57,004 - seleniumassignment.OpenUrlInChromeBrowserTest -INFO - Navigating into Application.
+2021-07-06 20:23:57,029 - seleniumassignment.OpenUrlInChromeBrowserTest -INFO - Application title is OrangeHRM
+2021-07-06 21:02:45,570 - seleniumassignment.OpenUrlInChromeBrowserTest -INFO - Browser Launched.
+2021-07-06 21:02:45,590 - seleniumassignment.OpenUrlInChromeBrowserTest -INFO - implicit wait Condition provided.
+2021-07-06 21:02:45,603 - seleniumassignment.OpenUrlInChromeBrowserTest -INFO - Browser Maximized
+2021-07-06 21:02:49,020 - seleniumassignment.OpenUrlInChromeBrowserTest -INFO - Navigating into Application.
+2021-07-06 21:02:49,032 - seleniumassignment.OpenUrlInChromeBrowserTest -INFO - Application title is OrangeHRM
+2021-07-08 16:43:20,910 - seleniumassignment.TestCase_1_OpenUrlInChromeBrowserTest -INFO - Browser Launched.
+2021-07-08 16:43:20,938 - seleniumassignment.TestCase_1_OpenUrlInChromeBrowserTest -INFO - implicit wait Condition provided.
+2021-07-08 16:43:20,953 - seleniumassignment.TestCase_1_OpenUrlInChromeBrowserTest -INFO - Browser Maximized
+2021-07-08 16:43:23,756 - seleniumassignment.TestCase_1_OpenUrlInChromeBrowserTest -INFO - Navigating into Application.
+2021-07-08 16:43:23,780 - seleniumassignment.TestCase_1_OpenUrlInChromeBrowserTest -INFO - Application title is OrangeHRM

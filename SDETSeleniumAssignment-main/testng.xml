@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="eSolutionsApi" parallel="tests" thread-count="5">
+
+ 
+  <test name="FRN">
+         <parameter name="url" value="https://qaebill.billing.com/" />
+        <parameter name="os" value="windows" />
+        <parameter name="browser" value="firefox" />
+        <classes>
+            <class name="com.broadridge.ebill.runners.TestNGRunCucumberTest" />
+        </classes>
+    </test>
+     
+</suite> 
